@@ -136,6 +136,10 @@ Redux，框架最初是用在 React 上，但是它已经被推广到了 React �
 
 ## 寻找成就感
 
+你可以使用 GitHub 上的 Contributions 来激励自己，每一天的痕迹都很明显，甚至于可以拉拢一些小伙伴，与你一起参加类似的活动。
+
+![GitHub Contributions](images/github-contributions.png)
+
 365 天， 事实上是，365* 2- 7 天。
 
 开始的时候，7 天里，基本上很充实
